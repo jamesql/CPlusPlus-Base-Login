@@ -51,3 +51,6 @@ std::string gulp(std::istream *in)
     return ret;
 }
 ```
+
+# Images
+![Basic GUI](https://image.prntscr.com/image/v7YUHXL-TJyehbc9QiZl_Q.png)
