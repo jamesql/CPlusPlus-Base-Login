@@ -1,4 +1,4 @@
-# Login-Base-CPP
+# Basic Login Client in C++ w/ Qt 5
 Basic Login Base w/ C++ &amp; MySQL
 
 # Where to get MySQL Connecter 8 for C++?
