@@ -10,7 +10,7 @@ Basic Login Base w/ C++ &amp; MySQL
 ```
 
 # Database File (MySQL)
-``sql
+```sql
 -- --------------------------------------------------------
 -- Host:                         127.0.0.1
 -- Server version:               5.7.18-log - MySQL Community Server (GPL)
